@@ -1,0 +1,18 @@
+2025-Oct-31-01:33:31,Proceso ETL iniciando...
+2025-Oct-31-01:33:31,Fase de extraccion iniciada
+2025-10-31-01:36:09,Proceso ETL iniciando...
+2025-10-31-01:36:09,Fase de extraccion iniciada
+2025-10-31-01:36:09,Fase de extraccion terminada
+2025-10-31-01:36:09,Fase de transformacion iniciada
+2025-10-31-01:36:09,Fase de transformacion terminada
+2025-10-31-01:36:09,Fase de carga iniciada
+2025-10-31-01:36:09,Fase de carga terminada
+2025-10-31-01:36:09,Proceso ETL finalizado
+2025-10-30-23:51:26,Proceso ETL iniciando...
+2025-10-30-23:51:26,Fase de extraccion iniciada
+2025-10-30-23:51:26,Fase de extraccion terminada
+2025-10-30-23:51:26,Fase de transformacion iniciada
+2025-10-30-23:51:26,Fase de transformacion terminada
+2025-10-30-23:51:26,Fase de carga iniciada
+2025-10-30-23:51:26,Fase de carga terminada
+2025-10-30-23:51:26,Proceso ETL finalizado

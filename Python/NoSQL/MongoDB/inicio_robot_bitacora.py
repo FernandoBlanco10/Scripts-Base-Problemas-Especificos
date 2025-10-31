@@ -18,7 +18,7 @@ estado = "Iniciando"
 
 # --- Conexión a MongoDB ---
 # Se obtienen los parámetros de conexión desde Rocketbot
-client = MongoClient(GetVar('client'))  # "client = mongodb://localhost:27017/"
+client = MongoClient(GetVar('client'))  # client = mongodb://localhost:27017/"
 db = client[GetVar('db')]               # db = "miBaseDeDatos"
 collection = db[GetVar('collection')]   # collection = "bitacora"
 
