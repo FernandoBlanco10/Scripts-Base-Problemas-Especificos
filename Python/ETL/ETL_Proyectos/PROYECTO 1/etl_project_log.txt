@@ -1,0 +1,7 @@
+2025-10-31-16:48:20 : Configuración inicial completada. Iniciando proceso ETL.
+2025-10-31-16:48:24 : Extracción de datos completada. Iniciando transformación.
+2025-10-31-16:48:24 : Transformación de datos completada. Iniciando carga.
+2025-10-31-16:48:24 : Datos almacenados en archivo CSV.
+2025-10-31-16:48:24 : Conexión con base de datos SQLite establecida.
+2025-10-31-16:48:24 : Datos cargados en base de datos. Ejecutando consulta de validación.
+2025-10-31-16:48:24 : Proceso ETL completado correctamente.
